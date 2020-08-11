@@ -13,10 +13,22 @@
 
 h1{
     text-align: center;
+    margin: 0 auto 0 auto;
 }
 
 h3{
     text-align: center;
+    margin: 0.5%;
+}
+
+h4{
+    text-align: center;
+    margin: 0.5%;
+}
+
+h5{
+    text-align: center;
+    margin: 0.5%;
 }
 
 .imagen{
@@ -27,4 +39,8 @@ h3{
 
 img{
     width: 100%;
+}
+
+p{
+    text-align: center;
 }
